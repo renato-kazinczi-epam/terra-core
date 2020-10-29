@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[654],{1512:function(a,e,n){"use strict";n.r(e);var t=n(0),i=n.n(t),c=n(161),r=n(905),f=n.n(r);e.default=function(){return i.a.createElement(c.default,{image:f.a,alt:"User",id:"image-avatar",initials:"JS"})}},905:function(a,e,n){a.exports=n.p+"87ec563ff16c288f58b0747d553762d6.jpg"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[777],{1820:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),o=a(162);t.default=function(){return r.a.createElement(o.default,{id:"terra-OverlayContainer"},"OverlayContainer is a wrapper component that applies the css style `position: relative;` so the overlay relative to container displays correctly.")}}}]);
